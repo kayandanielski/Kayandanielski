@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Kayan!
+# Olá, eu sou o Kayan!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Aprendendo Git, GitHub, lógica de programação e Python  
@@ -6,20 +6,20 @@
 📍 São Paulo / Criciúma - SC  
 📚 Sempre aprendendo algo novo e apaixonado por tecnologia!
 
-## 🛠️ Tecnologias e ferramentas que estou aprendendo:
+## 🛠Tecnologias e ferramentas que estou aprendendo:
 - Git e GitHub
 - Python
 - Lógica de Programação
 - Markdown para documentações
 
-## 📈 Objetivos 2025:
-- ✅ Aprender Git e GitHub
-- 🔄 Desenvolver projetos práticos
-- 🚀 Conseguir meu primeiro estágio em tecnologia
+## Objetivos 2025:
+- Aprender Git e GitHub
+- Desenvolver projetos práticos
+- Conseguir meu primeiro estágio em tecnologia
 
 ---
 
-### 🤝 Vamos nos conectar?
+###  Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kayan-danielski-35192a244/))
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:kayan.carneiro@hotmail.com)
 
